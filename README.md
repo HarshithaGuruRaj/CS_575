@@ -2,7 +2,7 @@
 Data Structures and Algorithms
 
 
-##DSA Project
+## DSA Project
 It contains a set of algorithm, among which 3 algorithms were developed using java and 1 algorithm using python. 
 
 ### Boyer Moore Algorithm
